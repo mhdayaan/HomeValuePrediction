@@ -23,7 +23,7 @@ To get started with this project, clone the repository and install the necessary
 
 ```bash
 git clone https://github.com/mhdayaan/HomeValuePrediction
-cd home-value-prediction
+cd HomeValuePrediction
 pip install -r requirements.txt
 ```
 
